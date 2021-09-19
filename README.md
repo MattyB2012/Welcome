@@ -1,6 +1,13 @@
-## Welcome to Matthew Boland's site
+## Personal Profile
 
-You can use the [editor on GitHub](https://github.com/MattyB2012/Welcome/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+My names Matt Boland, I’m 31 years old and have recently started my degree at RMIT (ID #s3197674, e: s3197674@student.rmit.edu.au).
+
+Born and raised in Melbourne (except for a brief stint in New Zealand), I have two younger sisters and I am half Australian, half South African.
+I’ve been in the fitness industry for over 10 years and have just started a career in IT.
+
+My favourite sport is Basketball (by far!). I’ve been playing since I was 9 years old. 
+Funnily enough that was also my first number!
+I was lucky enough to go to New Zealand for a year to play and when I came back home I was playing for the Melbourne Tigers.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
