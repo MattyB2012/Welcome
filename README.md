@@ -96,35 +96,3 @@ For this project to come to life we need to develop software similar to that of 
 ### Outcome
 
 If the project is successful, it will allow for far greater insights and accessibility in to clients and their health & wellness goals. Fitness applications will be able to implement the software into their existing platforms and allow them to expand their reach to new target markets. If the project is successful, and we are able to create and implement a health & wellness FAQ as a chatterbot, involving speech-to-text and text-to-speech software, it will allow us to transform the fitness industry and allow us to further enhance each clients experience.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/MattyB2012/Welcome/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
